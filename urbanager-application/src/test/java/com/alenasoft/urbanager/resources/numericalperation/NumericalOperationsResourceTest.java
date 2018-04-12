@@ -37,4 +37,12 @@ public class NumericalOperationsResourceTest {
         boolean isPrime = service.evalPrimo(number);
         assertEquals(expected, isPrime);
     }
+
+    @Test
+    public void IfNumberIsPrime_ReturnOK() {
+        int number = 5;
+        String expected = "OK";
+        String isPrime = service.isPrime(number);
+        assertEquals(expected, isPrime);
+    }
 }
