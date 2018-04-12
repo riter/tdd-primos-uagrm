@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="com.alenasoft.urbanager.resources.example.ExampleResourceTest" time="1.167" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="com.alenasoft.urbanager.resources.example.ExampleResourceTest" time="1.121" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib"/>
@@ -66,7 +66,7 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.alenasoft.urbanager.resources.example.ExampleResourceTest" name="testToGetOkResponseWhenGettingAllExamples" time="0.887"/>
-  <testcase classname="com.alenasoft.urbanager.resources.example.ExampleResourceTest" name="testToCreateOneExampleAndGetCreatedResponse" time="0.191"/>
-  <testcase classname="com.alenasoft.urbanager.resources.example.ExampleResourceTest" name="testAfterCreateOneExampleTheLocationShouldBeValid" time="0.089"/>
+  <testcase classname="com.alenasoft.urbanager.resources.example.ExampleResourceTest" name="testToGetOkResponseWhenGettingAllExamples" time="0.853"/>
+  <testcase classname="com.alenasoft.urbanager.resources.example.ExampleResourceTest" name="testToCreateOneExampleAndGetCreatedResponse" time="0.168"/>
+  <testcase classname="com.alenasoft.urbanager.resources.example.ExampleResourceTest" name="testAfterCreateOneExampleTheLocationShouldBeValid" time="0.1"/>
 </testsuite>
