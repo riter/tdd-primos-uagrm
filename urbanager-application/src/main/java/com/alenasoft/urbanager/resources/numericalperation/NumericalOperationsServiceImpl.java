@@ -3,6 +3,8 @@ package com.alenasoft.urbanager.resources.numericalperation;
 
 public class NumericalOperationsServiceImpl implements NumericalOperationsService {
 
+    private final String IS_PRIME = "OK";
+    private final String FAIL_PRIME = "FAIL";
 
     @Override
     public boolean evalPrimo(int number) {
@@ -16,5 +18,13 @@ public class NumericalOperationsServiceImpl implements NumericalOperationsServic
         }
 
         return true;
+    }
+
+    @Override
+    public String isPrime(int number) {
+        if (evalPrimo(number))
+            return IS_PRIME;
+
+        return null;
     }
 }
