@@ -9,6 +9,9 @@ com/alenasoft/urbanager/UrbanagerApp$1.class
 com/alenasoft/urbanager/core/modules/MainModule.class
 com/alenasoft/urbanager/resources/example/ExampleResource.class
 com/alenasoft/urbanager/resources/example/dao/ExampleDao.class
+com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResource.class
+com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.class
 com/alenasoft/urbanager/core/modules/HibernateModule.class
+com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.class
 com/alenasoft/urbanager/resources/hello/HelloService.class
 com/alenasoft/urbanager/resources/example/service/ExampleServiceImpl.class

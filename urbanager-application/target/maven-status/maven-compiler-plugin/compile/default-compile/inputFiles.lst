@@ -1,9 +1,12 @@
+/Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java
 /Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/UrbanagerConf.java
 /Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/hello/HelloService.java
 /Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/hello/HelloServiceImpl.java
 /Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/core/modules/HibernateModule.java
 /Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/UrbanagerApp.java
 /Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/hello/HelloResource.java
+/Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java
+/Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResource.java
 /Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/core/modules/MainModule.java
 /Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/example/service/ExampleService.java
 /Users/RiterCordova/Desktop/Maestria Ingenieria de Software/Modulo 4/uagrm-test-qa/urbanager/backend/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/example/dao/ExampleDao.java
