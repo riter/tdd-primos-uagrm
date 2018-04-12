@@ -45,4 +45,12 @@ public class NumericalOperationsResourceTest {
         String isPrime = service.isPrime(number);
         assertEquals(expected, isPrime);
     }
+
+    @Test
+    public void IfNumberIsNotPrime_ReturnFAIL() {
+        int number = 4;
+        String expected = "FAIL";
+        String isPrime = service.isPrime(number);
+        assertEquals(expected, isPrime);
+    }
 }
