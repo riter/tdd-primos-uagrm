@@ -1,6 +1,8 @@
 package com.alenasoft.urbanager.resources.numericalperation;
 
 
+import java.util.ArrayList;
+
 public class NumericalOperationsServiceImpl implements NumericalOperationsService {
 
     private final String IS_PRIME = "OK";
@@ -26,5 +28,25 @@ public class NumericalOperationsServiceImpl implements NumericalOperationsServic
             return IS_PRIME;
         else
             return FAIL_PRIME;
+    }
+
+    @Override
+    public int[] loadTheFirstPrime(int limit) {
+
+        int[] listPrime = new int[limit];
+        int contPrime = 0;
+
+        int cont = 0;
+        while (contPrime < limit) {
+
+            if (evalPrimo(cont)){
+                listPrime[contPrime] = cont;
+                contPrime++;
+            }
+
+            cont++;
+        }
+
+        return listPrime;
     }
 }

@@ -61,7 +61,7 @@ public class NumericalOperationsResourceTest {
     @Test
     public void showTheFirstPrimesNumber_ReturnListPrime() {
         int limit = 4;
-        int[] expected = new int[]{1,2,5,7};
+        int[] expected = new int[]{1,2,3,5};
         int[] result = service.loadTheFirstPrime(limit);
         assertArrayEquals(expected, result);
     }

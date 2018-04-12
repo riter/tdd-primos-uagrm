@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98ec07b9-c90c-497b-96f6-797d3e777a87" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java" afterPath="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java" />
+      <change beforePath="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" afterPath="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" />
       <change beforePath="$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java" afterPath="$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,8 +35,8 @@
       <file leaf-file-name="NumericalOperationsResourceTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="64" column="54" lean-forward="false" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
+            <state relative-caret-position="393">
+              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#283#284#0" expanded="true" />
@@ -47,8 +49,8 @@
       <file leaf-file-name="NumericalOperationsServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            <state relative-caret-position="394">
+              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -57,8 +59,8 @@
       <file leaf-file-name="NumericalOperationsService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="135">
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -98,10 +100,10 @@
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/hello/NumericalOperationsResource.java" />
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/core/modules/MainModule.java" />
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/hello/HelloResource.java" />
-        <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java" />
-        <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" />
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResource.java" />
+        <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java" />
         <option value="$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java" />
+        <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -634,12 +636,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NumericalOperationsResourceTest - 2018.04.12 at 18h 07m 46s.xml">
-      <configuration name="NumericalOperationsResourceTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumericalOperationsResourceTest - 2018.04.12 at 18h 10m 23s.xml">
-      <configuration name="NumericalOperationsResourceTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NumericalOperationsResourceTest - 2018.04.12 at 18h 20m 25s.xml">
       <configuration name="NumericalOperationsResourceTest" configurationId="JUnit" />
     </history-entry>
@@ -649,19 +645,25 @@
     <history-entry file="NumericalOperationsResourceTest_IfNumberIsPrime_ReturnOK - 2018.04.12 at 18h 18m 27s.xml">
       <configuration name="NumericalOperationsResourceTest.IfNumberIsPrime_ReturnOK" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumericalOperationsResourceTest_evalNumberNegativeIsNotPrime - 2018.04.12 at 18h 09m 39s.xml">
-      <configuration name="NumericalOperationsResourceTest.evalNumberNegativeIsNotPrime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumericalOperationsResourceTest_evalNumberZeroIsNotPrime - 2018.04.12 at 18h 07m 39s.xml">
-      <configuration name="NumericalOperationsResourceTest.evalNumberZeroIsNotPrime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumericalOperationsResourceTest_evalNumberZeroIsNotPrime - 2018.04.12 at 18h 08m 45s.xml">
-      <configuration name="NumericalOperationsResourceTest.evalNumberZeroIsNotPrime" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NumericalOperationsResourceTest_showTheFirstPrimesNumber_ReturnListPrime - 2018.04.12 at 18h 28m 47s.xml">
       <configuration name="NumericalOperationsResourceTest.showTheFirstPrimesNumber_ReturnListPrime" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NumericalOperationsResourceTest_showTheFirstPrimesNumber_ReturnListPrime - 2018.04.12 at 18h 29m 34s.xml">
+      <configuration name="NumericalOperationsResourceTest.showTheFirstPrimesNumber_ReturnListPrime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumericalOperationsResourceTest_showTheFirstPrimesNumber_ReturnListPrime - 2018.04.12 at 18h 41m 15s.xml">
+      <configuration name="NumericalOperationsResourceTest.showTheFirstPrimesNumber_ReturnListPrime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumericalOperationsResourceTest_showTheFirstPrimesNumber_ReturnListPrime - 2018.04.12 at 18h 42m 40s.xml">
+      <configuration name="NumericalOperationsResourceTest.showTheFirstPrimesNumber_ReturnListPrime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumericalOperationsResourceTest_showTheFirstPrimesNumber_ReturnListPrime - 2018.04.12 at 18h 43m 05s.xml">
+      <configuration name="NumericalOperationsResourceTest.showTheFirstPrimesNumber_ReturnListPrime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumericalOperationsResourceTest_showTheFirstPrimesNumber_ReturnListPrime - 2018.04.12 at 18h 43m 30s.xml">
+      <configuration name="NumericalOperationsResourceTest.showTheFirstPrimesNumber_ReturnListPrime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumericalOperationsResourceTest_showTheFirstPrimesNumber_ReturnListPrime - 2018.04.12 at 18h 45m 27s.xml">
       <configuration name="NumericalOperationsResourceTest.showTheFirstPrimesNumber_ReturnListPrime" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -677,7 +679,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27904668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27904668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2611718" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -688,7 +690,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39920557" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -702,7 +704,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -875,22 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -903,10 +889,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="64" column="54" lean-forward="false" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
+        <state relative-caret-position="393">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#283#284#0" expanded="true" />
