@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98ec07b9-c90c-497b-96f6-797d3e777a87" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java" afterPath="$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java" />
+      <change beforePath="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" afterPath="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/urbanager-api/target/" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="NumericalOperationsResourceTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="52" column="31" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+            <state relative-caret-position="450">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#283#284#0" expanded="true" />
@@ -45,8 +45,8 @@
       <file leaf-file-name="NumericalOperationsServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="405">
+              <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -98,8 +98,8 @@
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/hello/HelloResource.java" />
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResource.java" />
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java" />
-        <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" />
         <option value="$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java" />
+        <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -349,7 +349,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NumericalOperationsResourceTest.IfNumberIsNotPrime_ReturnFAIL">
+  <component name="RunManager" selected="JUnit.NumericalOperationsResourceTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -607,9 +607,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.IfNumberIsNotPrime_ReturnFAIL" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.IfNumberIsPrime_ReturnOK" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.IfNumberIsNotPrime_ReturnFAIL" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.IfNumberIsPrime_ReturnOK" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberNegativeIsNotPrime" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberZeroIsNotPrime" />
       </list>
@@ -638,11 +638,11 @@
     <history-entry file="NumericalOperationsResourceTest - 2018.04.12 at 18h 10m 23s.xml">
       <configuration name="NumericalOperationsResourceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NumericalOperationsResourceTest_IfNumberIsNotPrime_ReturnFAIL - 2018.04.12 at 18h 19m 27s.xml">
+      <configuration name="NumericalOperationsResourceTest.IfNumberIsNotPrime_ReturnFAIL" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="NumericalOperationsResourceTest_IfNumberIsPrime_ReturnOK - 2018.04.12 at 18h 18m 27s.xml">
       <configuration name="NumericalOperationsResourceTest.IfNumberIsPrime_ReturnOK" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumericalOperationsResourceTest_evalNumberIsPrime - 2018.04.12 at 18h 04m 09s.xml">
-      <configuration name="NumericalOperationsResourceTest.evalNumberIsPrime" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NumericalOperationsResourceTest_evalNumberIsPrime - 2018.04.12 at 18h 05m 05s.xml">
       <configuration name="NumericalOperationsResourceTest.evalNumberIsPrime" configurationId="JUnit" />
@@ -883,14 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -899,10 +891,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="52" column="31" lean-forward="false" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+        <state relative-caret-position="450">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#283#284#0" expanded="true" />

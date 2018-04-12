@@ -24,7 +24,7 @@ public class NumericalOperationsServiceImpl implements NumericalOperationsServic
     public String isPrime(int number) {
         if (evalPrimo(number))
             return IS_PRIME;
-
-        return null;
+        else
+            return FAIL_PRIME;
     }
 }
