@@ -29,4 +29,12 @@ public class NumericalOperationsResourceTest {
         boolean isPrime = service.evalPrimo(number);
         assertEquals(expected, isPrime);
     }
+
+    @Test
+    public void evalNumberNegativeIsNotPrime() {
+        int number = -10;
+        boolean expected = false;
+        boolean isPrime = service.evalPrimo(number);
+        assertEquals(expected, isPrime);
+    }
 }

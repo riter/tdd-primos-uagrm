@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98ec07b9-c90c-497b-96f6-797d3e777a87" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" afterPath="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java" afterPath="$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/urbanager-api/target/" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="NumericalOperationsResourceTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            <state relative-caret-position="555">
+              <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#283#284#0" expanded="true" />
@@ -99,8 +98,8 @@
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/hello/HelloResource.java" />
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResource.java" />
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsService.java" />
-        <option value="$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java" />
         <option value="$PROJECT_DIR$/urbanager-application/src/main/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java" />
       </list>
     </option>
   </component>
@@ -350,7 +349,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NumericalOperationsResourceTest">
+  <component name="RunManager" selected="JUnit.NumericalOperationsResourceTest.evalNumberNegativeIsNotPrime">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -375,26 +374,6 @@
     <configuration name="All in urbanager-api" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="urbanager-api" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="All in urbanager-application" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="urbanager-application" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
@@ -450,6 +429,31 @@
       <option name="PACKAGE_NAME" value="com.alenasoft.urbanager.resources.numericalperation" />
       <option name="MAIN_CLASS_NAME" value="com.alenasoft.urbanager.resources.numericalperation.NumericalOperationsResourceTest" />
       <option name="METHOD_NAME" value="evalNumberIsPrime" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="NumericalOperationsResourceTest.evalNumberNegativeIsNotPrime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.alenasoft.urbanager.resources.numericalperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="urbanager-application" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.alenasoft.urbanager.resources.numericalperation" />
+      <option name="MAIN_CLASS_NAME" value="com.alenasoft.urbanager.resources.numericalperation.NumericalOperationsResourceTest" />
+      <option name="METHOD_NAME" value="evalNumberNegativeIsNotPrime" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -594,20 +598,20 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.All in urbanager-application" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.All in urbanager-api" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberIsPrime" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberNotIsPrime" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberZeroIsNotPrime" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.All in urbanager-api" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberIsPrime" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberNotIsPrime" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberZeroIsNotPrime" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberNegativeIsNotPrime" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberNegativeIsNotPrime" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberZeroIsNotPrime" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberNotIsPrime" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberIsPrime" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.All in urbanager-application" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberNotIsPrime" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.NumericalOperationsResourceTest.evalNumberIsPrime" />
       </list>
     </recent_temporary>
   </component>
@@ -628,11 +632,8 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_urbanager-application - 2018.04.12 at 16h 33m 44s.xml">
-      <configuration name="All in urbanager-application" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumericalOperationsResourceTest_evalNumberIsPrime - 2018.04.12 at 17h 59m 25s.xml">
-      <configuration name="NumericalOperationsResourceTest.evalNumberIsPrime" configurationId="JUnit" />
+    <history-entry file="NumericalOperationsResourceTest - 2018.04.12 at 18h 07m 46s.xml">
+      <configuration name="NumericalOperationsResourceTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NumericalOperationsResourceTest_evalNumberIsPrime - 2018.04.12 at 18h 00m 22s.xml">
       <configuration name="NumericalOperationsResourceTest.evalNumberIsPrime" configurationId="JUnit" />
@@ -656,6 +657,9 @@
       <configuration name="NumericalOperationsResourceTest.evalNumberZeroIsNotPrime" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NumericalOperationsResourceTest_evalNumberZeroIsNotPrime - 2018.04.12 at 18h 07m 39s.xml">
+      <configuration name="NumericalOperationsResourceTest.evalNumberZeroIsNotPrime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumericalOperationsResourceTest_evalNumberZeroIsNotPrime - 2018.04.12 at 18h 08m 45s.xml">
       <configuration name="NumericalOperationsResourceTest.evalNumberZeroIsNotPrime" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -897,8 +901,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/urbanager-application/src/test/java/com/alenasoft/urbanager/resources/numericalperation/NumericalOperationsResourceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        <state relative-caret-position="555">
+          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#283#284#0" expanded="true" />
